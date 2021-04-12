@@ -1,10 +1,10 @@
-path,C:/Users/pc/3D Objects/STL/Household/packingClip/v1/demo_solo.mp4
-outpath,C:/Users/pc/3D Objects/STL/Household/packingClip/v1/empty.gif
+path,C:/Users/pc/Documents/Louis/sink buddy material/sponge_attachment.mp4
+outpath,C:/Users/pc/Documents/Louis/sink buddy material/head_attachment.gif
 targetfps,6
 scaling,4
-clip_lft,330
+clip_lft,400
 clip_top,0
-clip_rgt,1400
-clip_bot,1070
-clip_start,0.5
-clip_end,1.78
+clip_rgt,1600
+clip_bot,1080
+clip_start,0.2
+clip_end,1.0
